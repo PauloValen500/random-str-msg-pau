@@ -1,0 +1,20 @@
+{
+  "name": "random-str-msg-pau",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paulo Valenzuela <paulovalensuela@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PauloValen500/random-str-msg-pau.git"
+  },
+  "homepage": "https://github.com/PauloValen500/random-str-msg-pau#readme",
+  "bin": {
+    "random-str-msg-pau" : "./bin/global.js"
+  },
+  "preferGlobal": true
+}
